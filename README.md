@@ -1,5 +1,7 @@
 # Release Vault Beta
 
+**Deutsch** | [English](README_EN.md)
+
 Release Vault unterstützt Fotografen bei der digitalen Erstellung,
 Unterzeichnung und Verwaltung von Model- und Property-Releases.
 
