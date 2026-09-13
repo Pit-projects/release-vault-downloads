@@ -70,3 +70,4 @@ erfundenen und klar als Beispiel gekennzeichneten Datensätzen.
 > **Beta-Hinweis:** Release Vault befindet sich in der Erprobung. Die
 > mitgelieferten Vertragsvorlagen sind unverbindliche Muster und keine
 > Rechtsberatung.
+<!-- Avatar-Test -->
