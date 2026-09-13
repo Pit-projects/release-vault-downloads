@@ -1,4 +1,4 @@
-# Release Vault (Beta)
+<h1 align="center"><img src="assets/release-vault-logo.png" alt="Release Vault Logo" width="64"> Release Vault (Beta)</h1>
 
 **Deutsch** | [English](README_EN.md)
 
