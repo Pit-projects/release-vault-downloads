@@ -9,7 +9,11 @@ Contact details, contract templates, signatures, and completed PDF documents
 are stored in a structured and encrypted format. The app works fully offline
 and requires neither a user account nor a mandatory cloud connection. Encrypted
 backups and device data can optionally be synchronized through the user's own
-Nextcloud server.
+Nextcloud server. Users who prefer not to use a cloud service can save an
+encrypted backup file directly from either the Android or Windows application
+and restore it on the other platform. This provides a simple way to transfer
+data between Android and Windows without using the cloud. An iOS version is
+being considered, but is not currently available.
 
 ## Project goal
 

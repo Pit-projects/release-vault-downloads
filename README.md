@@ -9,7 +9,12 @@ Personendaten, Vertragsvorlagen, Unterschriften und fertige PDF-Dokumente werden
 strukturiert und verschlüsselt gespeichert. Die App funktioniert vollständig
 offline und benötigt weder ein Benutzerkonto noch eine verpflichtende
 Cloud-Verbindung. Optional können verschlüsselte Sicherungen und Gerätedaten
-über eine eigene Nextcloud synchronisiert werden.
+über eine eigene Nextcloud synchronisiert werden. Wer keine Cloud-Lösung
+verwenden möchte, kann direkt in der Android- oder Windows-Anwendung ein
+verschlüsseltes Backup als Datei speichern und anschließend auf der jeweils
+anderen Plattform wieder einspielen. Dadurch lassen sich die Daten auch ohne
+Cloud einfach zwischen Android und Windows übertragen. Eine Umsetzung für iOS
+ist grundsätzlich angedacht, steht derzeit jedoch noch nicht zur Verfügung.
 
 ## Ziel des Projekts
 
