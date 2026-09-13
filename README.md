@@ -1,4 +1,4 @@
-# Release Vault Beta
+# Release Vault (Beta)
 
 **Deutsch** | [English](README_EN.md)
 
