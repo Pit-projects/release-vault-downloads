@@ -16,6 +16,19 @@ Cloud-Verbindung. Optional können verschlüsselte Sicherungen und Gerätedaten
 Die geprüfte Android-Betaversion wird nach Abschluss der Veröffentlichungsprüfung
 hier als `Release-Vault-Beta.apk` bereitgestellt.
 
+## Einblicke in die App
+
+Die Aufnahmen zeigen die aktuelle Beta-Oberfläche mit ausschließlich frei
+erfundenen und klar als Beispiel gekennzeichneten Datensätzen.
+
+| Startseite | Personenverwaltung |
+| --- | --- |
+| ![Startseite von Release Vault](screenshots/01-startseite.png) | ![Personenverwaltung mit Beispieldaten](screenshots/02-personen.png) |
+
+| Verträge und Entwürfe | Vertragsvorlagen |
+| --- | --- |
+| ![Vertragsübersicht mit Statusanzeigen](screenshots/03-vertraege.png) | ![Deutsche und englische Vertragsvorlagen](screenshots/04-vertragsvorlagen.png) |
+
 ## Rechtliche Informationen
 
 - [Impressum und Anbieterangaben](docs/IMPRESSUM.md)

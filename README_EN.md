@@ -16,6 +16,19 @@ Nextcloud server.
 Once the release review has been completed, the tested Android beta will be
 available here as `Release-Vault-Beta.apk`.
 
+## App preview
+
+The screenshots show the current beta interface using only fictional records
+that are clearly marked as samples.
+
+| Home screen | People management |
+| --- | --- |
+| ![Release Vault home screen](screenshots/01-startseite.png) | ![People management with sample data](screenshots/02-personen.png) |
+
+| Contracts and drafts | Contract templates |
+| --- | --- |
+| ![Contract overview with status indicators](screenshots/03-vertraege.png) | ![German and English contract templates](screenshots/04-vertragsvorlagen.png) |
+
 ## Legal information
 
 - [Legal notice and provider information](docs/en/IMPRINT.md)
