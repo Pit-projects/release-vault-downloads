@@ -11,6 +11,20 @@ and requires neither a user account nor a mandatory cloud connection. Encrypted
 backups and device data can optionally be synchronized through the user's own
 Nextcloud server.
 
+## Project goal
+
+Release Vault grew out of a practical need: As a hobby photographer, I
+repeatedly found myself in situations where I needed a model or property
+release agreement. After trying several paid solutions, I decided to develop
+my own—and, most importantly, **free—solution for hobby photographers**.
+
+I am not a professional software developer, but a user myself. I have therefore
+tried to build Release Vault consistently from a user's perspective, making it
+as clear, well organized, and easy to use as possible. Despite careful work and
+extensive testing, occasional errors may still occur, and I kindly ask for your
+understanding. Feedback, suggestions for improvement, and ideas for useful new
+features are always very welcome.
+
 ## Download
 
 Once the release review has been completed, the tested Android beta will be

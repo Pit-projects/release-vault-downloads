@@ -11,6 +11,22 @@ offline und benötigt weder ein Benutzerkonto noch eine verpflichtende
 Cloud-Verbindung. Optional können verschlüsselte Sicherungen und Gerätedaten
 über eine eigene Nextcloud synchronisiert werden.
 
+## Ziel des Projekts
+
+Release Vault ist aus einem ganz praktischen Bedarf entstanden: Als
+Hobbyfotograf kam ich immer wieder in Situationen, in denen ich einen Model-
+oder Property-Release-Vertrag benötigte. Nachdem ich verschiedene
+kostenpflichtige Lösungen ausprobiert hatte, entschloss ich mich, eine eigene
+und vor allem **kostenlose Lösung für Hobbyfotografinnen und Hobbyfotografen**
+zu entwickeln.
+
+Ich bin kein professioneller Softwareentwickler, sondern selbst Anwender.
+Deshalb habe ich versucht, Release Vault konsequent aus Nutzersicht möglichst
+verständlich, übersichtlich und einfach bedienbar umzusetzen. Trotz großer
+Sorgfalt und zahlreicher Tests können sich Fehler eingeschlichen haben. Dafür
+bitte ich um Verständnis. Über Hinweise, Verbesserungsvorschläge und Ideen für
+sinnvolle Ergänzungen freue ich mich sehr.
+
 ## Download
 
 Die geprüfte Android-Betaversion wird nach Abschluss der Veröffentlichungsprüfung
