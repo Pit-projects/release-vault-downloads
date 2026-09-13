@@ -19,7 +19,8 @@ available here as `Release-Vault-Beta.apk`.
 ## App preview
 
 The screenshots show the current beta interface using only fictional records
-that are clearly marked as samples.
+that are clearly marked as samples. Although the screenshots are shown in
+German, the entire app interface can be switched to English in the settings.
 
 | Home screen | People management |
 | --- | --- |
