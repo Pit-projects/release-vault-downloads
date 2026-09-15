@@ -42,8 +42,6 @@ Release Vault steht als Android-App und als portable Windows-Anwendung zur
 Verfügung. Nach Abschluss der jeweiligen Veröffentlichungsprüfung können beide
 Versionen direkt hier heruntergeladen werden:
 
-- [Android-App herunterladen (APK)](https://github.com/Pit-projects/release-vault-downloads/releases/download/release-vault-beta/Release-Vault-Beta.apk)
-- [Windows-Anwendung herunterladen (ZIP)](https://github.com/Pit-projects/release-vault-downloads/releases/download/release-vault-beta/Release-Vault-Beta-Windows-portable.zip)
 
 Die Windows-Version wird aus dem ZIP-Archiv entpackt und anschließend über
 `ReleaseVault.exe` gestartet. Eine Installation ist nicht erforderlich.
