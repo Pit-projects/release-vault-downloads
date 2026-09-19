@@ -33,6 +33,10 @@ extensive testing, occasional errors may still occur, and I kindly ask for your
 understanding. Feedback, suggestions for improvement, and ideas for useful new
 features are always very welcome.
 
+## Support and bug fixes
+
+This is a hobby project. Bug reports are welcome, but support and timelines for fixes cannot be guaranteed.
+
 ## Download
 
 Release Vault is available as an Android app and as a portable Windows
