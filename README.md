@@ -36,6 +36,10 @@ Sorgfalt und zahlreicher Tests können sich Fehler eingeschlichen haben. Dafür
 bitte ich um Verständnis. Über Hinweise, Verbesserungsvorschläge und Ideen für
 sinnvolle Ergänzungen freue ich mich sehr.
 
+## Hinweise zu Support und Fehlerbehebungen
+
+Release Vault ist ein Hobbyprojekt. Fehlermeldungen sind willkommen, aber es gibt keinen garantierten Support und keinen festen Zeitplan für Fehlerbehebungen.
+
 ## Download
 
 Release Vault steht als Android-App und als portable Windows-Anwendung zur
