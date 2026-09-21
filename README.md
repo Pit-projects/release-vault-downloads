@@ -4,6 +4,8 @@
 
 <h1 align="center">Release Vault (Beta)</h1>
 
+<p align="center"><strong>Aktuelle Version: 3.0.7 (Beta)</strong></p>
+
 **Deutsch** | [English](README_EN.md)
 
 Release Vault unterstützt Fotografen bei der digitalen Erstellung,
