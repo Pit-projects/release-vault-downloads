@@ -4,6 +4,8 @@
 
 <h1 align="center">Release Vault (Beta)</h1>
 
+<p align="center"><strong>Current version: 3.0.7 (Beta)</strong></p>
+
 [Deutsch](README.md) | **English**
 
 Release Vault helps photographers create, sign, and manage model and property
