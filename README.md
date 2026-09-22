@@ -4,7 +4,7 @@
 
 <h1 align="center">Release Vault (Beta)</h1>
 
-<p align="center"><strong>Aktuelle Version: 4.0.1 (Beta)</strong></p>
+<p align="center"><strong>Aktuelle Version: 4.0.2 (Beta)</strong></p>
 
 **Deutsch** | [English](README_EN.md)
 
