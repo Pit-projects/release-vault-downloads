@@ -2,24 +2,44 @@
   <img src="assets/release-vault-header.png" alt="Release Vault – simple, digital, securely documented" width="740">
 </p>
 
-<h1 align="center">Release Vault (Beta)</h1>
+<h1 align="center">Release Vault</h1>
 
-<p align="center"><strong>The next version is in the final stage of development.</strong></p>
+<p align="center"><strong>Beta · development build 6.2.2 (Build 90) · no public download yet</strong></p>
 
 [Deutsch](README.md) | **English**
 
 Release Vault helps photographers create, sign, and manage model and property
-releases digitally.
+releases. Its core features work without an internet connection or an account.
+Contacts, contracts, signatures, and PDFs are stored locally in encrypted
+form. Only optional online features, such as remote signing, cloud sync, and
+weather forecasts, require a connection.
 
-Contact details, contract templates, signatures, and completed PDF documents
-are stored in a structured and encrypted format. The app works fully offline
-and requires neither a user account nor a mandatory cloud connection. Encrypted
-backups and device data can optionally be synchronized through the user's own
-Nextcloud server. Users who prefer not to use a cloud service can save an
-encrypted backup file directly from either the Android or Windows application
-and restore it on the other platform. This provides a simple way to transfer
-data between Android and Windows without using the cloud. An iOS version is
-being considered, but is not currently available.
+## Features in the current development build
+
+- **Contracts:** Guided model and property releases, reusable contacts,
+  custom templates, and bundled sample templates for individual shoots and
+  general releases. Completed contracts can be viewed, printed, and shared
+  as PDFs.
+- **Signing:** Sign on the device or, optionally, through a time-limited
+  browser link. Recipients do not need the app or a Release Vault account.
+  Returned details are reviewed in the app before finalization.
+- **Backup and sync:** Export and restore encrypted backup files on Android
+  and Windows. Automatic device sync and cloud backups can use **Nextcloud,
+  Google Drive, or Dropbox**. Only one provider can be connected at a time.
+  Google Drive uses a visible “Release Vault” folder; Dropbox uses its own app
+  folder. Device sync requires the same backup password on every device.
+- **Privacy:** Optional app lock, encrypted local storage, and backup
+  verification before restoration. Only when Nextcloud synchronization is
+  enabled are completed contracts also stored as directly readable PDF copies
+  in the user's own Nextcloud folder.
+- **Android shooting tools:** Checklist, blue and golden hour with sunrise
+  and sunset, daily cloud forecast, ND calculator, and practical shutter-speed
+  guidelines. Light times require location permission; the weather forecast
+  also requires internet access.
+
+The interface is available in German and English. Android and the portable
+Windows application remain usable without cloud services. An iOS version is
+not currently available.
 
 ## Project goal
 
@@ -43,13 +63,15 @@ This is a hobby project. Bug reports are welcome, but support and timelines for 
 
 The next version of Release Vault is in the final stage of development.
 Downloads for Android and Windows will be available here again when it is
-released.
+released. Until then, the Android app's update check remains disabled. Older
+test packages should not be treated as a public release.
 
 ## App preview
 
 The screenshots show the current beta interface using only fictional records
-that are clearly marked as samples. Although the screenshots are shown in
-German, the entire app interface can be switched to English in the settings.
+marked as samples. The Tools image was captured without location permission,
+so it does not show calculated light times. Although these screenshots are in
+German, the interface can be switched to English in the settings.
 
 | Home screen | People management |
 | --- | --- |
@@ -59,6 +81,10 @@ German, the entire app interface can be switched to English in the settings.
 | --- | --- |
 | ![Contract overview with status indicators](screenshots/03-vertraege.png) | ![German and English contract templates](screenshots/04-vertragsvorlagen.png) |
 
+| Android shooting tools |
+| --- |
+| ![Tools with checklist, light times, ND calculator, and shutter-speed guidelines](screenshots/05-tools.png) |
+
 ## Legal information
 
 - [Legal notice and provider information](docs/en/IMPRINT.md)
@@ -67,7 +93,7 @@ German, the entire app interface can be switched to English in the settings.
 - [Liability notice](docs/en/LIABILITY.md)
 - [Notice regarding contract templates](docs/en/CONTRACT_TEMPLATES.md)
 - [License information](docs/en/LICENSES.md)
-- [Local storage, encryption, and Nextcloud](docs/en/DATA_STORAGE.md)
+- [Local storage, encryption, and cloud providers](docs/en/DATA_STORAGE.md)
 
 > **Beta notice:** Release Vault is currently undergoing testing. The included
 > contract templates are non-binding samples and do not constitute legal advice.
