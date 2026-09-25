@@ -37,7 +37,8 @@ Verbindung erforderlich.
   Nextcloud-Synchronisierung werden fertige Verträge zusätzlich als direkt
   lesbare PDF-Kopien im eigenen Nextcloud-Ordner gespeichert.
 - **Shooting-Helfer auf Android:** Checkliste, blaue und goldene Stunde mit
-  Sonnenauf- und -untergang, Tagesprognose zur Bewölkung, ND-Rechner und
+  Sonnenauf- und -untergang, Tageswetter mit Wetterzustand, Temperaturspanne
+  und Niederschlagswahrscheinlichkeit, ND-Rechner und
   Verschlusszeiten als praktische Orientierungsbeispiele. Lichtzeiten brauchen
   eine Standortfreigabe; die Wetterprognose braucht zusätzlich Internet.
 

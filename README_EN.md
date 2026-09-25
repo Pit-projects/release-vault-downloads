@@ -33,9 +33,10 @@ weather forecasts, require a connection.
   enabled are completed contracts also stored as directly readable PDF copies
   in the user's own Nextcloud folder.
 - **Android shooting tools:** Checklist, blue and golden hour with sunrise
-  and sunset, daily cloud forecast, ND calculator, and practical shutter-speed
-  guidelines. Light times require location permission; the weather forecast
-  also requires internet access.
+  and sunset, daily weather conditions, temperature range and precipitation
+  probability, ND calculator, and practical shutter-speed guidelines. Light
+  times require location permission; the weather forecast also requires
+  internet access.
 
 The interface is available in German and English. Android and the portable
 Windows application remain usable without cloud services. An iOS version is
