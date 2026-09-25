@@ -4,9 +4,7 @@
 
 <h1 align="center">Release Vault (Beta)</h1>
 
-<p align="center"><strong>Aktuelle Version: 5.1.2 (Beta)</strong></p>
-
-<p align="center"><strong>Aktuelle Versionen: Android 5.0.0 · Windows 4.0.2 (Beta)</strong></p>
+<p align="center"><strong>Die nächste Version befindet sich in der Endphase der Entwicklung.</strong></p>
 
 **Deutsch** | [English](README_EN.md)
 
@@ -46,18 +44,9 @@ Release Vault ist ein Hobbyprojekt. Fehlermeldungen sind willkommen, aber es gib
 
 ## Download
 
-Release Vault steht als Android-App und als portable Windows-Anwendung zur
-Verfügung. Nach Abschluss der jeweiligen Veröffentlichungsprüfung können beide
-Versionen direkt hier heruntergeladen werden:
-
-- [Android-App herunterladen (APK)](https://github.com/Pit-projects/release-vault-downloads/releases/download/release-vault-beta/Release-Vault-Beta.apk)
-
-- [Android-App herunterladen (APK)](https://github.com/Pit-projects/release-vault-downloads/releases/download/release-vault-beta/Release-Vault-Beta-5.0.0-build56.apk)
-- [Windows-Anwendung herunterladen (ZIP)](https://github.com/Pit-projects/release-vault-downloads/releases/download/release-vault-beta/Release-Vault-Beta-Windows-portable.zip)
-
-
-Die Windows-Version wird aus dem ZIP-Archiv entpackt und anschließend über
-`ReleaseVault.exe` gestartet. Eine Installation ist nicht erforderlich.
+Die nächste Version von Release Vault befindet sich in der Endphase der
+Entwicklung. Der Download für Android und Windows wird mit ihrer
+Veröffentlichung hier wieder zur Verfügung stehen.
 
 ## Einblicke in die App
 
